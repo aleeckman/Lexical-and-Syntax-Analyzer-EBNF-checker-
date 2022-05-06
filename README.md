@@ -17,9 +17,6 @@ The program after encountering either an EBNF error or finishing successfully wi
 ## Error Handling:
 Whenever poor syntax is detected, the program will exit with exit(1)
 
-## Test Cases:
-The example file given on canvas: example1.x
-
 ## References:
 1. https://doc.rust-lang.org/book/ch01-03-hello-cargo.html
 2. https://doc.rust-lang.org/book/ch12-01-accepting-command-line-arguments.html
