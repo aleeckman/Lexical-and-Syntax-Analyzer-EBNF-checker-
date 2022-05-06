@@ -1,6 +1,4 @@
 # README
-Student Name: Andrew Eeckman
-Student ID: 914834317
 Date: 11/07/21
 
 ## Compilation Instructions:
